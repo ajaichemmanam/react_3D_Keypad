@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-3D-keypad/static/css/main.f6c7fb9b.chunk.css",
-    "main.js": "/react-3D-keypad/static/js/main.202b6bb7.chunk.js",
-    "main.js.map": "/react-3D-keypad/static/js/main.202b6bb7.chunk.js.map",
-    "runtime-main.js": "/react-3D-keypad/static/js/runtime-main.8b111e42.js",
-    "runtime-main.js.map": "/react-3D-keypad/static/js/runtime-main.8b111e42.js.map",
-    "static/js/2.f967f03d.chunk.js": "/react-3D-keypad/static/js/2.f967f03d.chunk.js",
-    "static/js/2.f967f03d.chunk.js.map": "/react-3D-keypad/static/js/2.f967f03d.chunk.js.map",
-    "index.html": "/react-3D-keypad/index.html",
-    "precache-manifest.d28418df7d498d31719eb71cd7b18553.js": "/react-3D-keypad/precache-manifest.d28418df7d498d31719eb71cd7b18553.js",
-    "service-worker.js": "/react-3D-keypad/service-worker.js",
-    "static/css/main.f6c7fb9b.chunk.css.map": "/react-3D-keypad/static/css/main.f6c7fb9b.chunk.css.map",
-    "static/js/2.f967f03d.chunk.js.LICENSE.txt": "/react-3D-keypad/static/js/2.f967f03d.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-3D-keypad/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react_3D_keypad/static/css/main.f6c7fb9b.chunk.css",
+    "main.js": "/react_3D_keypad/static/js/main.36ef6f39.chunk.js",
+    "main.js.map": "/react_3D_keypad/static/js/main.36ef6f39.chunk.js.map",
+    "runtime-main.js": "/react_3D_keypad/static/js/runtime-main.48557f5f.js",
+    "runtime-main.js.map": "/react_3D_keypad/static/js/runtime-main.48557f5f.js.map",
+    "static/js/2.f967f03d.chunk.js": "/react_3D_keypad/static/js/2.f967f03d.chunk.js",
+    "static/js/2.f967f03d.chunk.js.map": "/react_3D_keypad/static/js/2.f967f03d.chunk.js.map",
+    "index.html": "/react_3D_keypad/index.html",
+    "precache-manifest.f205174de9f031219cfd7149b7e61166.js": "/react_3D_keypad/precache-manifest.f205174de9f031219cfd7149b7e61166.js",
+    "service-worker.js": "/react_3D_keypad/service-worker.js",
+    "static/css/main.f6c7fb9b.chunk.css.map": "/react_3D_keypad/static/css/main.f6c7fb9b.chunk.css.map",
+    "static/js/2.f967f03d.chunk.js.LICENSE.txt": "/react_3D_keypad/static/js/2.f967f03d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react_3D_keypad/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8b111e42.js",
+    "static/js/runtime-main.48557f5f.js",
     "static/js/2.f967f03d.chunk.js",
     "static/css/main.f6c7fb9b.chunk.css",
-    "static/js/main.202b6bb7.chunk.js"
+    "static/js/main.36ef6f39.chunk.js"
   ]
 }
