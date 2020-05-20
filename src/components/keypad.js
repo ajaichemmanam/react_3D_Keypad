@@ -120,4 +120,12 @@ class Keypad extends Component {
     );
   }
 }
-export default Pressure(Keypad);
+const configs = {
+  polyfill: true,
+  polyfillSpeedUp: 1000,
+  polyfillSpeedDown: 1000,
+  preventSelect: true,
+  only: null,
+};
+
+export default Pressure(Keypad, configs);
