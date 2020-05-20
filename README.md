@@ -1,8 +1,11 @@
 # react_3D_Keypad
 
-This repo contains react component that provides additional features to a login page.__
-It uses Force Touch on supported devices to read pressure values as passwords.__
-Fall back method Polylines is used on unsupported devices.__
+This repo contains react component that provides additional features to a login page.
+
+It uses Force Touch (3D Touch) on supported devices to read pressure values along with pins as passwords.
+
+Fall back method Polylines is used on unsupported devices.
+
 
 # Demo
 Deployed in Github Pages: https://ajaichemmanam.github.io/react_3D_Keypad/
@@ -23,7 +26,5 @@ Future devices and browsers that support pressure will be added when they are re
 - Magic Trackpad 2 : Safari
 - iPad Pro with Apple Pencil : Safari, Chrome, anything using WKWebView
 
-
-
 # Credits
-https://github.com/rubcuadra
+@github/rubcuadra
