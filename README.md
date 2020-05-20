@@ -1,9 +1,8 @@
 # react_3D_Keypad
 
-# Description
-This repo contains react component that provides additional features to a login page.
-It uses Force Touch on supported devices to read pressure values as passwords.
-Fall back method Polylines is used on unsupported devices.
+This repo contains react component that provides additional features to a login page.__
+It uses Force Touch on supported devices to read pressure values as passwords.__
+Fall back method Polylines is used on unsupported devices.__
 
 # Demo
 Deployed in Github Pages: https://ajaichemmanam.github.io/react_3D_Keypad/
