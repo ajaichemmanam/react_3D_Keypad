@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react_3D_Keypad/precache-manifest.2e4cce7cba2e178b9cb54416344f3329.js"
+  "/react_3D_Keypad/precache-manifest.5db99eb4e6ddfbbd2fb81d91af616958.js"
 );
 
 self.addEventListener('message', (event) => {
