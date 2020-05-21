@@ -1,0 +1,95 @@
+.keyboard {
+  /* border: 1px solid #c6c6c6; */
+  position: fixed;
+  height: 75%;
+  width: 100%;
+  min-width: 320px;
+  min-height: 568px;
+  max-height: 823px;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.display-toolbar {
+  position: fixed;
+  width: 100%;
+  height: 20%;
+  left: 0;
+  top: 20%;
+  display: flex;
+  flex-flow: column;
+  -ms-flex-flow: column;
+  justify-content: space-between;
+}
+
+.keyboardbuttons {
+  position: fixed;
+  width: 100%;
+  height: 60%;
+  left: 0;
+  top: 40%;
+  background-color: #fff;
+  padding: 0.25rem;
+  margin: 0;
+  display: flex;
+  display: -webkit-flex;
+  flex-flow: row wrap;
+  -ms-flex-flow: row wrap;
+  justify-content: space-around;
+  z-index: 100;
+}
+
+.display {
+  width: 100%;
+  display: flex;
+  flex-flow: column;
+  -ms-flex-flow: column;
+  justify-content: space-between;
+  padding: 0px 4px 0 4px;
+  background-color: #fff;
+  flex-grow: 1;
+}
+.display-input {
+  width: 100%;
+  resize: none;
+  font-family: Nunito Sans, Helvetica, Arial, sans-serif;
+  border: none;
+  outline: none;
+  text-align: center;
+  background-color: inherit;
+}
+
+.display-input {
+  flex-shrink: 0;
+  font-size: 3rem;
+  color: #888;
+  white-space: nowrap;
+  padding: 50px 0px 50px 0px;
+}
+
+/* Toolbar */
+
+.toolbar {
+  background-color: #fff;
+  width: 100%;
+  display: flex;
+  display: -webkit-flex;
+  justify-content: space-between;
+  padding: 10px 15px;
+  color: #3da4ab;
+  /* text-transform: uppercase; */
+  font-weight: 700;
+  font-size: 1.4rem;
+  flex-shrink: 0;
+}
+
+.toolbar-item:hover {
+  cursor: pointer;
+  color: #0e9aa7;
+}
+
+#backspace {
+  margin-left: 30px;
+  font-size: 1.5rem;
+}
